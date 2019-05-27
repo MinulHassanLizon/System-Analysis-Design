@@ -1,6 +1,6 @@
 # System Analysis and Design (Lab) 
 
-Contains Documents of System Analysis & Design for the City University of Bangladesh 
+Contains Documents of System Analysis & Design. 
 <br/><br/>
 
 ### Assignment 1:
