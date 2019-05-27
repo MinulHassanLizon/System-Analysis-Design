@@ -4,19 +4,14 @@ Contains Documents of System Analysis & Design.
 ### Assignment 1:
 1. [Agile Development Metholodgy Overview.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Agile%20development.pdf/)
 
-### Lab 1 : 
-1. >Uploaing...
-
-### Lab 2 :
-1. >Uploaing...
-
-### Lab 3 :
-1. >Uploaing...
-### Lab 4 :
-1. >Uploaing...
+### [Lab Practical | CSE-326]
+#### 1. [LAB-1]
+#### 2. [LAB-2]
+#### 3. [LAB-3]
+#### 4. [LAB-4]
 
 ### Project :
-1. >Uploaing...
+#### 1.
 
 ### Mid Exam :
 1. >Mid
