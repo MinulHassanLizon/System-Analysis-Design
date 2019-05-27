@@ -11,6 +11,6 @@ Contains Documents of System Analysis & Design.
 #### 3. [LAB-3]
 #### 4. [LAB-4]
 
-## Project :
+## Project 
 #### 1. Uploading...
 
