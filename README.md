@@ -34,7 +34,12 @@ RealizationTest.java (This class has main method).
 
 ## Lab Assignment
 #### 1. [Assignment-1]
-#### 2. [Assignment-2]
+Generalization: Convert the following class diagram into java code. Test the Customer
+and Admin class in GeneralizationTest.java (This class has main method).
+Remove address property from Customer class and create an Address class and associate with
+Customer. Re draw the Class diagram and write the java code. [Submit two pages assignment
+report]
+
 
 ## Project 
 #### 1. Uploading...
