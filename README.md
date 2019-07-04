@@ -33,7 +33,11 @@ RealizationTest.java (This class has main method).
 
 ## Lab Assignment
 #### 1. [Assignment-1]
-[Generalization](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Association/)
+[Generalization & Association](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Association/)
+
+[Re-drawn Class diagram](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Class%20diagram.png)
+
+[Report]()
 
 Generalization: Convert the following class diagram into java code. Test the Customer
 and Admin class in GeneralizationTest.java (This class has main method).
