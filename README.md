@@ -5,6 +5,9 @@ Contains Documents of System Analysis & Design.
 ### 1. [Agile Development Metholodgy Overview.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Agile%20development.pdf/)
 ### 2. [Mid_Exam](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
+# System Analysis and Design (Lab) 
+Contains Documents of System Analysis & Design. 
+
 ## Lab Practical
 #### 1. [LAB-1]
 #### 2. [LAB-2]
