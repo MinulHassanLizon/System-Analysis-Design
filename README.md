@@ -16,8 +16,8 @@ Contains Documents of System Analysis & Design Laboratory.
 [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
 #### 2. [LAB-2]
-Convert the following class diagram into java code. Test the Employee class in
-Employeetest.java (This class has main method).
+[EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
+
 #### 3. [LAB-3]
 Aggregation: Convert the following class diagram into java code. Test the Employee and
 Address class in AggregationTest.java (This class has main method).
