@@ -16,6 +16,10 @@ Contains Documents of System Analysis & Design.
 #### 5. [LAB-5]
 #### 6. [LAB-6]
 
+## Lab Assignment
+#### 1. [Assignment-1]
+#### 2. [Assignment-2]
+
 ## Project 
 #### 1. Uploading...
 
