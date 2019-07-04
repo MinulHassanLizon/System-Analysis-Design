@@ -1,11 +1,11 @@
-# System Analysis and Design (Lab) 
+# CSE-325 System Analysis and Design
 Contains Documents of System Analysis & Design. 
 
 ## Assignment/Report
 ### 1. [Agile Development Metholodgy Overview.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Agile%20development.pdf/)
 ### 2. [Mid_Exam](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
-# System Analysis and Design (Lab) 
+# CSE-326 System Analysis and Design Laboratory 
 Contains Documents of System Analysis & Design. 
 
 ## Lab Practical
