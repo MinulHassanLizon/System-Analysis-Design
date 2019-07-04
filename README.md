@@ -10,7 +10,7 @@ Write down a report on ATM Activity diagram. [draw the diagram using DIA]
 ### >> [Mid_Exam](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
 # CSE-326 System Analysis and Design Laboratory 
-Contains Documents of System Analysis & Design. 
+Contains Documents of System Analysis & Design Laboratory. 
 
 ## Lab Practical
 #### 1. [LAB-1]
