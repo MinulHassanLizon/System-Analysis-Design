@@ -12,9 +12,9 @@ Contains Documents of System Analysis & Design.
 Contains Documents of System Analysis & Design Laboratory. 
 
 ## Lab Practical
-#### 1. [LAB-1]
-Convert the following class diagram into java code. Test the Student class in Studenttest.java
-(This class has main method).
+#### 1. [LAB-1] 
+[StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
+
 #### 2. [LAB-2]
 Convert the following class diagram into java code. Test the Employee class in
 Employeetest.java (This class has main method).
