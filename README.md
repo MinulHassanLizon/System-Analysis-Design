@@ -6,6 +6,7 @@ Contains Documents of System Analysis & Design.
 [Agile Development Metholodgy Overview.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Agile%20development.pdf/)
 #### 2. [Assignment-2]
 Write down a report on ATM Activity diagram. [draw the diagram using DIA]
+
 [Mid_Exam](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
 # CSE-326 System Analysis and Design Laboratory 
