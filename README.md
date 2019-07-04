@@ -14,11 +14,23 @@ Contains Documents of System Analysis & Design Laboratory.
 
 ## Lab Practical
 #### 1. [LAB-1]
+Convert the following class diagram into java code. Test the Student class in Studenttest.java
+(This class has main method).
 #### 2. [LAB-2]
+Convert the following class diagram into java code. Test the Employee class in
+Employeetest.java (This class has main method).
 #### 3. [LAB-3]
+Aggregation: Convert the following class diagram into java code. Test the Employee and
+Address class in AggregationTest.java (This class has main method).
 #### 4. [LAB-4]
+Composition: Convert the following class diagram into java code. Test the Employee and
+Address class in CompositionTest.java (This class has main method).
 #### 5. [LAB-5]
+Generalization: Convert the following class diagram into java code. Test the Customer
+and Admin class in GeneralizationTest.java (This class has main method).
 #### 6. [LAB-6]
+Realization: Convert the following class diagram into java code. Test the payments and in
+RealizationTest.java (This class has main method).
 
 ## Lab Assignment
 #### 1. [Assignment-1]
