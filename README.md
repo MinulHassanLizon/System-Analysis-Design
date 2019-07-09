@@ -11,19 +11,19 @@ Contains Documents of System Analysis & Design.
 Contains Documents of System Analysis & Design Laboratory. 
 
 ## Lab Practical
-#### 1. [LAB-1]   [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
+#### 1.1 [LAB-1]   [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
-#### 2. [LAB-2]   [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
+#### 1.2 [LAB-2]   [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
 
-#### 3. [LAB-3]
+#### 1.3 [LAB-3]
 Aggregation: Convert the following class diagram into java code. Test the Employee and
 Address class in AggregationTest.java (This class has main method).
-#### 4. [LAB-4]
+#### 1.4 [LAB-4]
 Composition: Convert the following class diagram into java code. Test the Employee and
 Address class in CompositionTest.java (This class has main method).
-#### 5. [LAB-5]     [GeneralizationTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab%205/)
+#### 1.5 [LAB-5]     [GeneralizationTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab%205/)
 
-#### 6. [LAB-6]
+#### 1.6 [LAB-6]
 Realization: Convert the following class diagram into java code. Test the payments and in
 RealizationTest.java (This class has main method).
 
