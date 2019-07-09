@@ -1,5 +1,3 @@
-# [![Logo](/lizo.jpg)](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/lizo.jpg)
-
 # CSE-325 System Analysis and Design
 Contains Documents of System Analysis & Design. 
 
