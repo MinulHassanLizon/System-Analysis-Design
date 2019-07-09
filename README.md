@@ -15,15 +15,15 @@ Contains Documents of System Analysis & Design Laboratory.
 
 #### 1.2 [LAB-2]   [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
 
-#### 1.3 [LAB-3]
+#### 1.3 [LAB-3]    [AggregationTest]
 Aggregation: Convert the following class diagram into java code. Test the Employee and
 Address class in AggregationTest.java (This class has main method).
-#### 1.4 [LAB-4]
+#### 1.4 [LAB-4]    [CompositionTest]
 Composition: Convert the following class diagram into java code. Test the Employee and
 Address class in CompositionTest.java (This class has main method).
 #### 1.5 [LAB-5]     [GeneralizationTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab%205/)
 
-#### 1.6 [LAB-6]
+#### 1.6 [LAB-6]    [RealizationTest]
 Realization: Convert the following class diagram into java code. Test the payments and in
 RealizationTest.java (This class has main method).
 
