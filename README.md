@@ -34,7 +34,7 @@ Contains Documents of System Analysis & Design Laboratory.
 
 
 ## 5: Project 
-#### 5.1. Uploading...
-#### 5.2. Uploading...
-#### 5.3. Uploading...
+#### 5.1. Presentation.
+#### 5.2. Diagram.
+#### 5.3. Report.
 
