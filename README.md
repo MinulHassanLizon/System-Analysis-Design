@@ -7,8 +7,6 @@ Contains Documents of System Analysis & Design.
 ## 2: Mid_Exam:
 ### 2.1 [Use Case Diagram of Mobile Banking system & Class diagram for Online Shopping System.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
-
-
 # CSE-326 System Analysis and Design Laboratory 
 Contains Documents of System Analysis & Design Laboratory. 
 
