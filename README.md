@@ -13,8 +13,7 @@ Contains Documents of System Analysis & Design Laboratory.
 ## Lab Practical
 #### 1. [LAB-1]   [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
-#### 2. [LAB-2]
-[EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
+#### 2. [LAB-2]   [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
 
 #### 3. [LAB-3]
 Aggregation: Convert the following class diagram into java code. Test the Employee and
