@@ -11,8 +11,7 @@ Contains Documents of System Analysis & Design.
 Contains Documents of System Analysis & Design Laboratory. 
 
 ## Lab Practical
-#### 1. [LAB-1] 
-[StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
+#### 1. [LAB-1]   [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
 #### 2. [LAB-2]
 [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
