@@ -26,7 +26,7 @@ Contains Documents of System Analysis & Design Laboratory.
 
 ## 4: Lab Assignment
 #### [Assignment-1]
-4.1 [Generalization & Association](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Association/)
+4.1 [Generalization & Association Code](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Association/)
 
 4.2 [Re-drawn Class diagram](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Class%20diagram.png)
 
