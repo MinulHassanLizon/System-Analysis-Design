@@ -12,15 +12,15 @@ Contains Documents of System Analysis & Design.
 Contains Documents of System Analysis & Design Laboratory. 
 
 ## 3: Lab Practical
-3.1 [LAB-1]   [StudentTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
+3.1 [LAB-1]   [StudentTest.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
-3.2 [LAB-2]   [EmployeeTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
+3.2 [LAB-2]   [EmployeeTest.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
 
 3.3 [LAB-3]    [AggregationTest]
 
 3.4 [LAB-4]    [CompositionTest]
 
-3.5 [LAB-5]     [GeneralizationTest](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab%205/)
+3.5 [LAB-5]     [GeneralizationTest.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab%205/)
 
 3.6 [LAB-6]    [RealizationTest]
 
@@ -37,7 +37,7 @@ Contains Documents of System Analysis & Design Laboratory.
 ## 5: Project 
 ### [House Management System]
 
-5.1. [Presentation.]
+5.1. [Presentation]
 
 5.2. [HMS Report.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/House--Management-system/HMS%20Report%20Lizon.pdf)
 
