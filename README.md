@@ -1,4 +1,4 @@
-# CSE-325 System Analysis and Design
+# CSE-325 System Analysis and Design.
 Contains Documents of System Analysis & Design. 
 
 ## 1: Assignment/Report :-
@@ -8,10 +8,10 @@ Contains Documents of System Analysis & Design.
 ## 2: Mid_Exam:-
 2.1 [Use Case Diagram of Mobile Banking system & Class diagram for Online Shopping System.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
-# CSE-326 System Analysis and Design Laboratory 
+# CSE-326 System Analysis and Design Laboratory.
 Contains Documents of System Analysis & Design Laboratory. 
 
-## 3: Lab Practical
+## 3: Lab Practical:-
 3.1 [LAB-1]   [StudentTest.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_1/StudentTest/)
 
 3.2 [LAB-2]   [EmployeeTest.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_2/EmployeeTest)
@@ -25,7 +25,7 @@ Contains Documents of System Analysis & Design Laboratory.
 3.6 [LAB-6]    [RealizationTest]
 
 
-## 4: Lab Assignment
+## 4: Lab Assignment:-
 #### [Assignment-1]
 4.1 [Generalization & Association Source Code.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Association/)
 
@@ -34,7 +34,7 @@ Contains Documents of System Analysis & Design Laboratory.
 4.3 [Report writing.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Lab_Assignment%201/Generalization%20%26%20Association.pdf/)
 
 
-## 5: Final Project
+## 5: Final Project:-
 ### [House Management System]
 
 5.1. [Presentation]
