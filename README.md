@@ -6,8 +6,7 @@ Contains Documents of System Analysis & Design.
 
 1.2 [Assignment-2]    [ATM Activity diagram using DIA with report.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/ATM%20Activity%20diagram%20using%20DIA%20with%20report.pdf/)
 ## 2: Mid_Exam:
-2.1 [Use Case Diagram of Mobile Banking system &
-   					Class diagram for Online Shopping System.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
+2.1 [Use Case Diagram of Mobile Banking system & Class diagram for Online Shopping System.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/Mid_lizon.pdf)
 
 # CSE-326 System Analysis and Design Laboratory 
 Contains Documents of System Analysis & Design Laboratory. 
