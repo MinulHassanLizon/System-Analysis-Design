@@ -35,7 +35,10 @@ Contains Documents of System Analysis & Design Laboratory.
 
 ## 5: Project 
 ### [House Management System]
-#### 5.1. Presentation.
-#### 5.2. [Report](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/House--Management-system/HMS%20Report%20Lizon.pdf)
-#### 5.3. [HMS Source Code](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/House--Management-system/House-Rent-Management)
+
+5.1. [Presentation.]()
+
+5.2. [HMS Report.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/House--Management-system/HMS%20Report%20Lizon.pdf)
+
+5.3. [HMS Source Code.](https://github.com/MinulHassanLizon/System-Analysis-and-Design/tree/MinulHassanLizon-Assignment-1/House--Management-system/House-Rent-Management)
 
