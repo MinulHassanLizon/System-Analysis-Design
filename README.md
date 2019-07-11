@@ -36,5 +36,5 @@ Contains Documents of System Analysis & Design Laboratory.
 ## 5: Project 
 ### [House Management System]
 #### 5.1. Presentation.
-#### 5.2. [Report](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/HMS%20Report%20Lizon.pdf)
+#### 5.2. [Report](https://github.com/MinulHassanLizon/System-Analysis-and-Design/blob/MinulHassanLizon-Assignment-1/House--Management-system/HMS%20Report%20Lizon.pdf)
 
